@@ -1,4 +1,0 @@
-#Testing the crossplatform management
-print("it was born in GitHub")
-
-print("now it lives on RStudio")
